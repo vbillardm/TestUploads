@@ -1,0 +1,17 @@
+{
+    "name": "constantin/cmsg1",
+    "authors": [
+        {
+            "name": "constantin guidon",
+            "email": "constantin@MacBook-Pro-de-constantin.local"
+        }
+    ],
+    "require": {
+    },
+  "autoload": {
+    "psr-4": {
+      "Controller\\": "controller/",
+      "Model\\":"model/"
+    }
+  }
+}
